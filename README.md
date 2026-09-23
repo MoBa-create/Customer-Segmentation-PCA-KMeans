@@ -71,17 +71,3 @@ Machine Learning: Scikit-Learn (StandardScaler, PCA, KMeans)
 Visualization: Matplotlib, Seaborn
 
 Model Serialization: Joblib
-
-🚀 Getting Started
-1. Clone the repository
-
-
-git clone https://github.com/MoBa-create/customer-segmentation-pca.git
-cd customer-segmentation-pca
-
-
-2. Install dependencies
-	pip install -r requirements.txt
-
-3. Execute the pipeline
-	python customer_segmentation.py
